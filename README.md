@@ -6,33 +6,39 @@ Data from a peer-to-peer leading service company, LendingClub, is under- and ove
 ### Naive Random Oversampling: 
 * Accuracy score: 66.2%
 * Precision score: 99%
-* Recall: 60%
-<img src="Images/Naive.PNG" width="400"/>
+* Recall: 60%  
+<img src="Images/Naive.PNG" width="400"/>  
+
 ### SMOTE Oversampling: 
 * Accuracy score: 66.2%
 * Precision score: 99%
 * Recall: 69%
-<img src="Images/SMOTE.PNG" width="400"/>
+<img src="Images/SMOTE.PNG" width="400"/>  
+
 ### ClusterCentroids Undersampling: 
 * Accuracy score: 66.2%
 * Precision score: 99%
 * Recall: 52%
-<img src="Images/cluster.PNG" width="400"/>
+<img src="Images/cluster.PNG" width="400"/>  
+
 ### SMOTEENIN Under/Over Sampling Combo:
 * Accuracy score: 64.5%
 * Precision score: 99%
 * Recall: 57%
-<img src="Images/combo.PNG" width="400"/>
+<img src="Images/combo.PNG" width="400"/>  
+
 ### Balanced Random Forest Classifier:
 * Accuracy score: 78.9%
 * Precision score: 99%
 * Recall: 87%
-<img src="Images/balanced.PNG" width="400"/>
+<img src="Images/balanced.PNG" width="400"/>  
+
 ### Easy Ensemble AdaBoost Classifier:
 * Accuracy score: 93.2%
 * Precision score: 99%
 * Recall: 94%
-<img src="Images/easy.PNG" width="400"/>
+<img src="Images/easy.PNG" width="400"/>  
+
 ## Ranking: From Most to Least Accurate Predictions
 1. Easy Ensemble AdaBoost Classifier
 2. Balanced Random Forest Classifier
